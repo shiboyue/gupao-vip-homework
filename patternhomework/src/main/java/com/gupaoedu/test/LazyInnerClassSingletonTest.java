@@ -1,6 +1,6 @@
 package com.gupaoedu.test;
 
-import com.gupaoedu.vip.pattern.singleton.lazy.LazyInnerClassSingleton;
+import com.gupaoedu.lazy.LazyInnerClassSingleton;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

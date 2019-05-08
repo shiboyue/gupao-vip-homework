@@ -1,6 +1,6 @@
 package com.gupaoedu.test;
 
-import com.gupaoedu.vip.pattern.singleton.lazy.LazySingleton;
+import com.gupaoedu.lazy.LazySingleton;
 
 public class ExecutorThreadTest implements Runnable {
 
